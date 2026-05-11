@@ -30,9 +30,8 @@ Focused on creating educational and interactive digital products using modern we
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,laravel,php,supabase,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,laravel,php,supabase,figma,git,github,vscode&theme=dark" />
 </p>
-
 ---
 
 ## 🌟 Featured Project
@@ -50,13 +49,13 @@ Interactive Islamic learning platform for kids with:
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/epriya-mecca-siti-alikhah-040b42265/" target="_blank">
+<a href="https://www.linkedin.com/in/epriya-mecca-040b42265/?skipRedirect=true" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
 </a>
 
-<a href="https://www.instagram.com/alienjk7/" target="_blank">
+<a href="https://www.instagram.com/epriyamecca._/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" />
 </a>
 
