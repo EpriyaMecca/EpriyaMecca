@@ -29,48 +29,8 @@ Focused on creating educational and interactive digital products using modern we
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" />
-</a>
-
-<a href="https://laravel.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" />
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" />
-</a>
-
-<a href="https://supabase.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" />
-</a>
-
-<a href="https://figma.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-</a>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,laravel,php,supabase,figma,git,github" />
 </p>
 
 ---
