@@ -63,12 +63,32 @@ Interactive Islamic learning platform for kids with:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epriyamecca&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epriyamecca&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=epriyamecca&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epriyamecca&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=epriyamecca&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+## 🚀 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=epriyamecca&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
