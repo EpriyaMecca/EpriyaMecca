@@ -50,15 +50,13 @@ Interactive Islamic learning platform for kids with:
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/epriya-mecca-040b42265/?skipRedirect=true" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://www.linkedin.com/in/epriya-mecca-040b42265/?skipRedirect=true" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
-</a>
-
-<a href="https://www.instagram.com/epriyamecca._/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" />
-</a>
-
+  <a href="https://www.instagram.com/epriyamecca._/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 📧 Email: **meccaprogrammerhandal@gmail.com**
